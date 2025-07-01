@@ -1,6 +1,7 @@
 # Algemene Plaatselijke Verordening Zilverveld
 
 ## Hoofdstuk I: Gedragscode
+
 ### Artikel 1: Taalgebruik
 1.1 Schelden met hedendaagse ziekten is niet toegestaan.
 1.2 Alle vormen van haatdragend taalgebruik zijn niet toegestaan.
@@ -16,3 +17,7 @@ Noot₂ IC = In Character (= In Karakter)
 2.4 Volg aanwijzingen van staffleden altijd op.
 2.5 IC wraak nemen op een stafflid vanwege OOC-acties is verboden.
 2.6 Staff gebruikt hun bevoegdheden uitsluitend om de veiligheid van de speelomgeving te garanderen.
+
+## Hoofdstuk II: Roleplay
+
+### Artikel 3: 
