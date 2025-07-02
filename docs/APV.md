@@ -39,3 +39,25 @@ Noot₁ Rippen = Goederen van een speler afnemen met behulp van een wapen.
 4.6 Het bewust uitlokken van politie zonder realistische IC-aanleiding is verboden. (bijv. zinloos door rood rijden bij het bureau)
 4.7 Na het overlijden van je karakter mag je niet terugkeren om wraak te nemen of betrokken zijn bij dezelfde situatie.
 4.8 Je dient het leven van je karakter serieus te nemen: Je mag niet stoer of onverschrokken blijven doen als je onder schot wordt gehouden, gegijzeld wordt of je leven op een andere manier direct in gevaar is.
+
+## Hoofdstuk III: Overheidsinstanties
+
+### Artikel 5: Gedragsnormen
+5.1 Overheidsmedewerkers moeten altijd professioneel en respectvol handelen, ongeacht de situatie.
+5.2 Overheidsdiensten hebben een voorbeeldrol binnen de server.
+5.3 Misbruik van bevoegdheden, privileges of informatie schaadt het vertrouwen en wordt streng bestraft.
+
+### Artikel 6: Corruptie en machtsmisbruik
+6.1 Corruptie is ten strengste verboden. (bijv. wapens doorspelen, informatie lekken enzovoort.)
+6.2 Overheidsfuncties mogen niet misbruikt worden voor OOC-voordeel of ter bescherming van vrienden.
+
+### Artikel 7: Uniform- en voertuigregels
+7.1 Medewerkers dienen hun officiële uniform te dragen tijdens dienst, tenzij toestemming van leiding.
+7.2 Onrealistische outfits, maskers of accessoires zijn niet toegestaan tijdens dienst.
+7.3 Zwaailichten en sirenes mogen alleen gebruikt worden tijdens spoed, niet voor de show.
+
+## Hoofdstuk IV: Onderwereld
+
+### Artikel 8: Regels voor overvallen
+8.1 Overvallen moeten realistisch en doordacht zijn. Een overval plannen zonder voorbereiding is niet toegestaan.
+8.2 Tijdens een overval gelden strikte regels voor interactie: geen onnodig geweld, respect voor gijzelaars en politie, en realistische eisen.
