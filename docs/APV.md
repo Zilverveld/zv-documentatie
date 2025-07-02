@@ -20,4 +20,18 @@ Noot₂ IC = In Character (= In Karakter)
 
 ## Hoofdstuk II: Roleplay
 
-### Artikel 3: 
+### Artikel 3: Roleplay ontwijkend gedrag
+3.1 Het opzettelijk ontwijken, afbreken of negeren van RP is niet toegestaan. Dit geldt ook voor onrealistisch gedrag om onder gevolgen uit te komen.
+3.2 Het uitloggen tijdens een scenario (bijv. arrestatie of overval) is ten strengste verboden. Bij een crash moet de speler dit z.s.m. melden via discord en binnen 10 minuten terug zijn.
+3.3 Je mag geen absurd of onrealistisch gedrag vertonen om een boete, arrestatie of andere gevolgen te ontlopen (bijv. 'ik krijg ineens een hartaanval' zonder opbouw).
+3.4 Het forceren van je eigen dood om onder RP uit te komen (bijv. “dan spring ik wel van het gebouw af”) is niet toegestaan zonder redelijke opbouw.
+3.5 Je moet je scenario altijd afmaken, ookal zijn er regels verbroken. Na het scenario kan je via een ticket je klacht indienen.
+3.6 Roleplay die enkel bedoeld is om regels te omzeilen, zonder enige diepgang of logica, wordt niet geaccepteerd. (bijv. bij een aanhouding plots 'gek' worden zonder IC geschiedenis of hints daartoe.)
+
+### Artikel 4: Het verstoren van de Roleplay
+4.1 Het gebruiken van OOC-kennis in IC-situaties, zoals namen boven hoofden, discord-informatie of livestreams is niet toegestaan.
+4.2 Het forceren van acties op andere spelers zonder realistische kans tot reactie. (bijv. “Ik sla je neer en bind je vast” zonder de ander ruimte te geven om te reageren).
+4.3 Een ruzie of belediging is geen reden om direct geweld te gebruiken. Escalatie moet logisch en geleidelijk verlopen. Iemand doden zonder goede reden zal leiden tot een sanctie voor Random Deathmatch.
+4.4 Een voertuig mag nooit als wapen gebruikt worden. (bijv. iemand aanrijden zodat je hem kunt rippen₁.)
+Noot₁ Rippen = Goederen van een speler afnemen met behulp van een wapen.
+4.5 Het spelen van situaties die niet realistisch of onlogisch zijn binnen de serverregels en het karakter is niet toegestaan. (bijv. na een kogel in je benen vrolijk verder lopen.)
