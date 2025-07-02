@@ -7,8 +7,8 @@ site_author: 'Zilverveld'
 copyright: Copyright &copy; 2024-2025 Zilverveld Roleplay
 
 # Repository
-repo_url: https://github.com/MythicalLapis0181/zv-documentatie
-repo_name: MythicalLapis0181/zv-documentatie
+repo_url: https://github.com/Zilverveld/zv-documentatie/
+repo_name: Zilverveld/zv-documentatie/
 theme:
   name: material
   custom_dir: docs/overrides
