@@ -27,11 +27,15 @@ Noot₂ IC = In Character (= In Karakter)
 3.4 Het forceren van je eigen dood om onder RP uit te komen (bijv. “dan spring ik wel van het gebouw af”) is niet toegestaan zonder redelijke opbouw.
 3.5 Je moet je scenario altijd afmaken, ookal zijn er regels verbroken. Na het scenario kan je via een ticket je klacht indienen.
 3.6 Roleplay die enkel bedoeld is om regels te omzeilen, zonder enige diepgang of logica, wordt niet geaccepteerd. (bijv. bij een aanhouding plots 'gek' worden zonder IC geschiedenis of hints daartoe.)
+3.7 Je dient ten alle tijden mee te doen aan de roleplay van ambulanciers.
 
-### Artikel 4: Het verstoren van de Roleplay
+### Artikel 4: Roleplay kwaliteit
 4.1 Het gebruiken van OOC-kennis in IC-situaties, zoals namen boven hoofden, discord-informatie of livestreams is niet toegestaan.
 4.2 Het forceren van acties op andere spelers zonder realistische kans tot reactie. (bijv. “Ik sla je neer en bind je vast” zonder de ander ruimte te geven om te reageren).
 4.3 Een ruzie of belediging is geen reden om direct geweld te gebruiken. Escalatie moet logisch en geleidelijk verlopen. Iemand doden zonder goede reden zal leiden tot een sanctie voor Random Deathmatch.
 4.4 Een voertuig mag nooit als wapen gebruikt worden. (bijv. iemand aanrijden zodat je hem kunt rippen₁.)
 Noot₁ Rippen = Goederen van een speler afnemen met behulp van een wapen.
 4.5 Het spelen van situaties die niet realistisch of onlogisch zijn binnen de serverregels en het karakter is niet toegestaan. (bijv. na een kogel in je benen vrolijk verder lopen.)
+4.6 Het bewust uitlokken van politie zonder realistische IC-aanleiding is verboden. (bijv. zinloos door rood rijden bij het bureau)
+4.7 Na het overlijden van je karakter mag je niet terugkeren om wraak te nemen of betrokken zijn bij dezelfde situatie.
+4.8 Je dient het leven van je karakter serieus te nemen: Je mag niet stoer of onverschrokken blijven doen als je onder schot wordt gehouden, gegijzeld wordt of je leven op een andere manier direct in gevaar is.
