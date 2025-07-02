@@ -61,3 +61,9 @@ Noot₁ Rippen = Goederen van een speler afnemen met behulp van een wapen.
 ### Artikel 8: Regels voor overvallen
 8.1 Overvallen moeten realistisch en doordacht zijn. Een overval plannen zonder voorbereiding is niet toegestaan.
 8.2 Tijdens een overval gelden strikte regels voor interactie: geen onnodig geweld, respect voor gijzelaars en politie, en realistische eisen.
+
+### Artikel 9: Gijzelingen
+9.1 Gijzelingen mogen alleen plaatsvinden als onderdeel van een goed onderbouwd scenario.
+9.2 Gijzelaars moeten met respect behandeld worden en mogen niet onnodig getraumatiseerd/gedood worden.
+9.3 Onderhandelingen met politie of derden moeten realistisch en serieus verlopen.
+9.4 Gijzelingen eindigen met een duidelijke uitkomst: vrijlating, redding, of consequenties.
