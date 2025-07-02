@@ -40,6 +40,8 @@ Noot₁ Rippen = Goederen van een speler afnemen met behulp van een wapen.
 4.7 Na het overlijden van je karakter mag je niet terugkeren om wraak te nemen of betrokken zijn bij dezelfde situatie.
 4.8 Je dient het leven van je karakter serieus te nemen: Je mag niet stoer of onverschrokken blijven doen als je onder schot wordt gehouden, gegijzeld wordt of je leven op een andere manier direct in gevaar is.
 
+### Artikel ???: Herkenning
+
 ## Hoofdstuk III: Overheidsinstanties
 
 ### Artikel 5: Gedragsnormen
@@ -67,3 +69,51 @@ Noot₁ Rippen = Goederen van een speler afnemen met behulp van een wapen.
 9.2 Gijzelaars moeten met respect behandeld worden en mogen niet onnodig getraumatiseerd/gedood worden.
 9.3 Onderhandelingen met politie of derden moeten realistisch en serieus verlopen.
 9.4 Gijzelingen eindigen met een duidelijke uitkomst: vrijlating, redding, of consequenties.
+
+## Hoofdstuk V: Voertuig Regels
+
+### Artikel 10: Onrealistisch rijgedrag
+10.1 Het is niet toegestaan om onrealistische rijstijlen aan te nemen. (bijv. gebruik maken van schanzen met een auto.)
+10.2 Alle voertuigen mogen op onverharde wegen rijden met een max van 120 km/u. Speciale off-road of semi-off road voertuigen mogen harder dan 120 km/u over de onverharde wegen. Volledig off-road mag alleen met een daarvoor bestemde auto.
+10.3 Pitten is toegestaan onder de 100 kilometer per uur. Echter moet pitten altijd op verantwoorde wijze gaan, je mag jezelf hier niet mee in gevaar brengen. Eenheden van de politie in een Snel Interventie Voertuig mogen pitten onder de 150 kilometer per uur. Een veel zwaarder voertuig dan je eigen voertuig pitten is niet toegestaan.
+10.4 Je mag niet onnodig wegen/routes blokkeren met je voertuig. Je mag tevens ook niet in je voertuig blijven zitten bij een blokkade.
+10.5 Het is niet toegestaan om te brakechecken.
+10.6 Je mag geen rijdende blokkade opzetten, dit houd in dat je voor een voertuig gaat rijden om deze te stoppen/af te remmen. Enkel de Snel Interventie Voertuigen van de politie mogen om de 5 minuten 1x een inboxmanouvre proberen in te zetten.
+10.7 Voertuigen mogen niet in gebouwen of huizen rijden.
+
+## Hoofdstuk VI: Accounts & Exploits
+
+### Artikel 11: Accountgebruik
+11.1 Elke speler mag slechts één account gebruiken op de server.
+11.2 Het delen van accounts is verboden.
+11.3 Het delen van inloggegevens met anderen is verboden.
+11.4 Het overnemen, hacken of misbruiken van andermans account is ten strengste verboden.
+
+### Artikel 12: Technische hulpmiddelen en exploits
+12.1 Het gebruik van cheats, hacks, bots, scripts of andere onrechtmatige hulpmiddelen is verboden. Dit geldt ook voor software die gameplay beïnvloedt, zoals aim-bots, wall-hacks, en auto-clickers.
+12.2 Het bewust gebruiken van bugs of glitches om een voordeel te behalen is niet toegestaan.
+12.3 Spelers dienen bugs direct te melden bij de staff.
+12.4 Software die buiten de server om gebruikt wordt om gameplay te beïnvloeden, is verboden tenzij dit expliciet toegestaan is. (Zie toegestane software(link naar dit tabje))
+12.5 Staff kan besluiten dat een pc-check noodzakelijk is. Je dient hier aan mee te werken.
+
+### Artikel 13: Accountnamen en personages
+13.1 Namen die ongepast, beledigend of onrealistisch zijn, worden geweigerd.
+
+### Artikel 14: Veiligheid en privacy
+14.1 Persoonlijke informatie van spelers mag niet zonder toestemming gedeeld worden.
+14.2 Staff zal nooit om privégegevens vragen buiten het strikt noodzakelijke.
+
+## Hoofdstuk VII: Strafbepalingen
+
+### Artikel 15: Strafcategorieën
+15.1 Alle straffen zijn opgenomen in categorieën. We hanteren de volgende categorieën:
+Categorie 1: Waarschuwing
+Categorie 2: Een taakstraf van maximaal 80 taken
+Categorie 3: Een tijdelijke verbanning van maximaal 1 dag
+Categorie 4: Een tijdelijke verbanning van maximaal 7 dagen
+Categorie 5: Een tijdelijke verbanning van maximaal 30 dagen
+Categorie 6: Een tijdelijke verbanning van maximaal 90 dagen
+Categorie 7: Een tijdelijke verbanning van maximaal 365 dagen
+Categorie 8: Een permanente verbanning
+Categorie 9: Een permanente verbanning en een accountwipe
+15.2 Naarmate een speler vaker dezelfde overtreding maakt, wordt er automatisch opgeschaald naar een hogere categorie.
